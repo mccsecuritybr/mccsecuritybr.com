@@ -1,0 +1,7 @@
+# MCC Security BR — https://mccsecuritybr.com/
+# Achou algo neste site? Escreva para o contato abaixo.
+# Found something on this site? Write to the contact below.
+Contact: mailto:matheus@mccsecuritybr.com
+Expires: 2027-11-10T00:00:00.000Z
+Preferred-Languages: pt, en
+Canonical: https://mccsecuritybr.com/.well-known/security.txt
